@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on a personal full stack project
-- 🌱 I’m currently learning nextjs
-- 👯 I’m looking to collaborate on any web project
+- 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: shalomsheks@gmail.com
 
   ## Technical Profile
@@ -19,4 +18,5 @@
 - [todo-app](https://todo-projectsfix.netlify.app)
 - [Anne](https://annes-app.vercel.app/)
 - [Tek Talka](https://tech-talka.vercel.app/)
+- [edupack](https://edupack-pih4wkosj-shekinah007.vercel.app)
   
