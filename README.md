@@ -6,9 +6,8 @@
 - 📫 How to reach me: shalomsheks@gmail.com
 
   ## Technical Profile
-  - HTML
-  - CSS3/TailwindCSS
-  - JavaScript/TypeScript
+  - HTML, CSS3/TailwindCSS
+  - JavaScript
   - React
   - Redux Toolkit
   - NestJs/MongoDB
