@@ -17,6 +17,6 @@
 ## Some of my projects
 - [ffcm](https://ffcm-front.vercel.app)
 - [todo-app](https://todo-projectsfix.netlify.app)
-- [Tek Talka](https://tech-talka.vercel.app/)
 - [Anne](https://annes-app.vercel.app/)
+- [Tek Talka](https://tech-talka.vercel.app/)
   
