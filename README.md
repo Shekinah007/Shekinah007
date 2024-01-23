@@ -19,4 +19,5 @@
 - [Anne](https://annes-app.vercel.app/)
 - [Tek Talka](https://tech-talka.vercel.app/)
 - [edupack](https://edupack-pih4wkosj-shekinah007.vercel.app)
+- [easybank](https://shekinah007.github.io/Bank-Landing-Page/)
   
