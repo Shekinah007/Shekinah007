@@ -14,8 +14,8 @@
   - NestJs/MongoDB
  
 ## Some of my projects
-- [ffcm](https://ffcm-front.vercel.app)
-- [todo-app](https://todo-projectsfix.netlify.app)
+- [FFCM](https://ffcm-front.vercel.app)
+- [todo-projects](https://todo-projectsfix.netlify.app)
 - [Anne](https://annes-app.vercel.app/)
 - [Tek Talka](https://tech-talka.vercel.app/)
 - [edupack](https://edupack-pih4wkosj-shekinah007.vercel.app)
