@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Shekinah
+Passionate about tech and always seeking to learn and explore.
 
 - 🔭 I’m currently working on a personal full stack project
 - 👯 I’m looking to collaborate on any project
@@ -12,7 +12,7 @@
   - Redux Toolkit
   - NestJs/MongoDB
  
-## Some of my projects
+## Featured Projects
 - [FFCM](https://ffcm-front.vercel.app)
 - [Todo-projects](https://todo-projectsfix.netlify.app)
 - [Anne](https://annes-app.vercel.app/)
