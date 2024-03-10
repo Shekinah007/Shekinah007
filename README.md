@@ -24,8 +24,7 @@ Progressive Web App built with vanilla JavaScript
 - [Anne's Wellness Habour](http://anneswellnesshabour.com/)
 - [Etch-A-Sketch](https://etch-a-sketch-six-rouge.vercel.app/):
 A desktop web app attempting to mimick the drawing tool "Etch-A-Sketch"
-Currently functions properly only on PC
-- [Tek-Talka](https://tech-talka.vercel.app/)
+Currently functions properly only on desktop.
 - [EduPack](https://edupack-pih4wkosj-shekinah007.vercel.app)
-- [EasyBank](https://shekinah007.github.io/Bank-Landing-Page/)
+
   
