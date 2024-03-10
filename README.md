@@ -18,7 +18,9 @@ Passionate about tech and always seeking to learn and explore.
  
 ## Featured Projects
 - [FFCM](https://ffcm-front.vercel.app)
+  A fullstack web app built with React and NestJs
 - [Todo-projects](https://todo-projectsfix.netlify.app)
+  Progressive Web App built with vanilla JavaScript 
 - [Anne](https://annes-app.vercel.app/)
 - [Tek-Talka](https://tech-talka.vercel.app/)
 - [EduPack](https://edupack-pih4wkosj-shekinah007.vercel.app)
