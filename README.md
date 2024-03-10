@@ -17,11 +17,11 @@ Passionate about tech and always seeking to learn and explore.
   - NestJs/MongoDB
  
 ## Featured Projects
-- [FFCM](https://ffcm-front.vercel.app)
-  A fullstack web app built with React and NestJs
-- [Todo-projects](https://todo-projectsfix.netlify.app)
-  Progressive Web App built with vanilla JavaScript 
-- [Anne](https://annes-app.vercel.app/)
+- [FFCM](https://ffcm-front.vercel.app):
+A fullstack church management application.
+- [Todo-projects](https://todo-projectsfix.netlify.app):
+Progressive Web App built with vanilla JavaScript 
+- [Anne's Wellness Habour](http://anneswellnesshabour.com/):
 - [Tek-Talka](https://tech-talka.vercel.app/)
 - [EduPack](https://edupack-pih4wkosj-shekinah007.vercel.app)
 - [EasyBank](https://shekinah007.github.io/Bank-Landing-Page/)
