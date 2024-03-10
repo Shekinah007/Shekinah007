@@ -19,7 +19,7 @@ Passionate about tech and always seeking to learn and explore.
 ## Featured Projects
 - [FFCM](https://ffcm-front.vercel.app):
 A fullstack church management application.
-- [Todo-projects](https://todo-projectsfix.netlify.app):
+- [ProjectManager](https://todo-projectsfix.netlify.app):
 Progressive Web App built with vanilla JavaScript 
 - [Anne's Wellness Habour](http://anneswellnesshabour.com/):
 - [Tek-Talka](https://tech-talka.vercel.app/)
