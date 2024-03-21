@@ -5,9 +5,8 @@
 ### Hi there 👋 I'm Shekinah
 Passionate about tech and always seeking to learn and explore.
 
-- 🔭 I’m currently working on a personal full stack project
 - 👯 I’m looking to collaborate on any project
-- 📫 How to reach me: shalomsheks@gmail.com
+- 📫 How to reach me: s.shalomhope@gmail.com
 
   ## Technical Profile
   - HTML, CSS3/TailwindCSS
