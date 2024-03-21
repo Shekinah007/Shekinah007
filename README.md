@@ -13,7 +13,6 @@ Passionate about tech and always seeking to learn and explore.
   - HTML, CSS3/TailwindCSS
   - JavaScript
   - React
-  - Redux Toolkit
   - NestJs/MongoDB
  
 ## Featured Projects
@@ -25,6 +24,7 @@ Progressive Web App built with vanilla JavaScript
 - [Etch-A-Sketch](https://etch-a-sketch-six-rouge.vercel.app/):
 A desktop web app attempting to mimick the drawing tool "Etch-A-Sketch"
 Currently functions properly only on desktop.
+- [DigitalBull](https://digitalbull.vercel.app/)
 - [EduPack](https://edupack-pih4wkosj-shekinah007.vercel.app)
 
   
