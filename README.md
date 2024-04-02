@@ -56,7 +56,5 @@ Currently functions properly only on desktop.
 
 [![Cavin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shekinah007&bg_color=c8d4ff&color=0a0a9e&line=134e9e&point=003b40&area=true&hide_border=true)](https://github.com/Shekinah007/github-readme-activity-graph)
 
-![Build Status](https://github.com/users/Shekinah007/achievements/pull-shark)
-![Build Status](https://github.com/users/Shekinah007/achievements/yolo)
 
   
