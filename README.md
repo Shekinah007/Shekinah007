@@ -32,13 +32,13 @@ Currently functions properly only on desktop.
 </a><a href="https://github.com" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Logo" width="50" height="50"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code Logo" width="40" height="40"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"></a>
+<a href=""><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"></a>
 <a href="https://nestjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" /></a>
+<a href=""><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" /></a>
 <a href="https://mongodb.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /></a>
 <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /></a>
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" /></a>
-<a href=""><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" /></a>
-<a href=""><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" /></a>
 <a href=""><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" /></a>
 
 
