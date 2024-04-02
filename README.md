@@ -26,6 +26,9 @@ Currently functions properly only on desktop.
 - [DigitalBull](https://digitalbull.vercel.app/)
 - [EduPack](https://edupack-pih4wkosj-shekinah007.vercel.app)
 
+<p style="display: flex; justify-content: space-between;" float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemerald25&theme=yeblu&limit=15&layout=compact" alt="Top Langs" style="width: 32%; height: auto;"/>
+
 
 ### GitHub Activity Graph
 
