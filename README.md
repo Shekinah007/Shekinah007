@@ -12,7 +12,10 @@ Passionate about tech and always seeking to learn and explore.
   - HTML, CSS3/TailwindCSS
   - JavaScript
   - React
-  - NestJs/MongoDB
+  - NestJs
+  - MongoDB
+  - NextJS                    
+  
  
 ## Featured Projects
 - [FFCM](https://ffcm-front.vercel.app):
