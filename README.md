@@ -18,6 +18,8 @@ Passionate about tech and always seeking to learn and explore.
   
  
 ## Featured Projects
+- [savwal](https://solar-store.vercel.app/)
+  A FullStack Ecommerce site built with NextJs
 - [FFCM](https://ffcm-front.vercel.app):
 A fullstack church management web application.
 - [ProjectManager](https://todo-projectsfix.netlify.app):
