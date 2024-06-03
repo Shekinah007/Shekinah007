@@ -18,10 +18,11 @@ Passionate about tech and always seeking to learn and explore.
   
  
 ## Featured Projects
-- [savwal](https://solar-store.vercel.app/)
+- [Savwal](https://solar-store.vercel.app/)
   A FullStack Ecommerce site built with NextJs
+- [Ecommerce Admin Panel](https://solar-commerce-admin.vercel.app)
 - [FFCM](https://ffcm-front.vercel.app):
-A fullstack church management web application.
+A fullstack management web application with react and nesjs
 - [ProjectManager](https://todo-projectsfix.netlify.app):
 Progressive Web App built with vanilla JavaScript 
 - [Anne's Wellness Habour](http://anneswellnesshabour.com/)
