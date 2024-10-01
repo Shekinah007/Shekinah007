@@ -21,6 +21,7 @@ Passionate about tech and always seeking to learn and explore.
 - [Savwal](https://solar-store.vercel.app/)
   A FullStack Ecommerce site built with NextJs
 - [Ecommerce Admin Panel](https://solar-commerce-admin.vercel.app)
+- [In Shop Sales](https://savwal-payment.vercel.app)
 - [FFCM](https://ffcm-front.vercel.app):
 A fullstack management web application with react and nesjs
 - [ProjectManager](https://todo-projectsfix.netlify.app):
