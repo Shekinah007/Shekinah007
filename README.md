@@ -10,7 +10,7 @@ Passionate about tech and always seeking to learn and explore.
 
   ## Technical Profile
   - HTML, CSS3/TailwindCSS
-  - JavaScript
+  - JavaScript, Typescript 
   - React
   - NestJs
   - MongoDB
